@@ -10,4 +10,8 @@ public class Application {
 		SpringApplication.run(Application.class, args);
 	}
 
+
+	//HIS-20 related changes
+	public void doprocess(){
+	//logic goes here
 }
